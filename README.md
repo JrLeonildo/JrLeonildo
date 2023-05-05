@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrLeonildo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Tecnologias utilizdas no momento 💻
+## Minhas Skills 💻
 
 <div aling="cente">
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JrLeonildo&theme=gotham)
 
-### Estudando no momento 📚💻
+<!--### Estudando no momento 📚💻
 
 <div>
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>

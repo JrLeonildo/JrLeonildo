@@ -1,4 +1,4 @@
-### Olá! Eu sou Leonildo Júnior 👋🤓
+## Olá! Eu sou Leonildo Júnior 👋🤓
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l_juni0r_?igshid=ZDdkNTZiNTM=)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juniorleonildo98@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](juniorleonildo98@gmail.com)
@@ -19,3 +19,9 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JrLeonildo&theme=gotham)
 
+### Estudando no momento 📚💻
+
+<div>
+  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!--<img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>-->
+</div>

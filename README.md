@@ -17,8 +17,6 @@
   <!--<img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>-->
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JrLeonildo&theme=gotham)
-
 <!--### Estudando no momento 📚💻
 
 <div>

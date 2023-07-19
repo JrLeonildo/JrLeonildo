@@ -22,4 +22,6 @@
 <div>
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div>-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JrLeonildo&bg_color=000000&color=ffffff&line=5a4c9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
